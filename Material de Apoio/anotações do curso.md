@@ -48,3 +48,8 @@ Usa-se 'img src="caminho da imagem"' como elemento obrigatório o qual mostra o 
 Usa-se 'img alt="descrição da imagem" como elemento de descrição que aparecerá no lugar da imagem se a mesma não for carregada
 Exemplo:
 img src="workspace/img_logo" alt="logo do site"
+
+## Aula 5 - Adicionando Listas
+ul/ul - lista em que a ordem dos itens não é importante/relevante
+ol/ol - a ordem da lista é importante e tem representação com números, letras, etc
+li/li - item da lista
