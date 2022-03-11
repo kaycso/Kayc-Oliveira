@@ -1,4 +1,4 @@
-# Arquivo para anotações de aprendizado
+# Arquivo para anotações de aprendizado sobre html
 ## Aula 1 - Estrutura Básica
 criando um arquivo index.html com as tags de estruta básica:
  !DOCTYPE html - 
