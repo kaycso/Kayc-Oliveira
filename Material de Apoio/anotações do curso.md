@@ -40,3 +40,11 @@ Tags para links:
      atributos: y = href e y = target (existem mais tipos)
      a href="link"/a - hiperlink para um site externo (para email, colocar o prefixo mailto, para telefone, colocar o prefixo tel)
      a target="_blank"/a - indica como o link será aberto (o exemplo "_blank" serve para abrir o link em uma nova página)
+
+
+## Aula 4 - Imagens
+Para anexar uma imagem usa-se a tag 'img' (obs: não possui fechamento)
+Usa-se 'img src="caminho da imagem"' como elemento obrigatório o qual mostra o diretório da imagem e anexa a mesma na página
+Usa-se 'img alt="descrição da imagem" como elemento de descrição que aparecerá no lugar da imagem se a mesma não for carregada
+Exemplo:
+img src="workspace/img_logo" alt="logo do site"
