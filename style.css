@@ -1,5 +1,10 @@
 body {
     background: rgb(0, 0, 0);
+    font-family: verdana;
+}
+
+a {
+    color: blueviolet;
 }
 
 .photo {
@@ -11,8 +16,17 @@ body {
     color: blueviolet;
 }
 
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
 .post_title {
-    font-size: 20px;
+    font-size: 16px;
     font-style: italic;
     margin: 0;
     margin-bottom: 15px;
@@ -21,7 +35,7 @@ body {
 .post {
     background: #fff;
     padding: 15px;
-    border: 3px solid blueviolet;
+    border: 2px solid blueviolet;
     margin-bottom: 15px;
     border-radius: 10px;
 }
@@ -29,13 +43,25 @@ body {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    font-size: 14px;
 }
 
 .list_tecnology {
     margin: 0;
     margin-bottom: 15px;
+    font-size: 14px;
 }
 
 .post_img {
     margin-bottom: 15px;
+}
+
+.rdp {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+
+footer {
+    font-size: 14px;
 }

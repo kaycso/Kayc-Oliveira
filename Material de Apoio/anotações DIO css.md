@@ -64,3 +64,33 @@ Permite arredondar os cantos de um elemento. Suas unidades mais comuns são os p
 
 
 ## Estilizando textos:
+### Font-family:
+Altera a fonte do texto.
+Exemplo: 
+font-family: verdana;
+font-family: verdana, arial;
+### Font-size:
+altera o tamanho do texto.
+Exemplo:
+font-size: 'A'px; (o exemplo fio dado em pixel, que é a forma mais utilizada, mas também pode ser dado em centímetros, etc)
+### Font-style:
+Modifica o estilo da fonte.
+Exemplo:
+font-style: italic; (muda a fonte para itálico)
+### Font-weight
+Modifica o "peso" da fonte.
+Exemplo:
+font-weight: bold; (modifica a fonte para negrito)
+### Text-transform:
+Alterna o texto entre maiúsculas e minúsculas.
+Exemplo:
+text-transform: uppercase; (modifica todo o texto para caixa alta)
+text-transform: lowercase; (modifica todo o texto para caixa baixa)
+text-transform: capitalize; (coloca toda primeira letra de cada palavra em maiúscula)
+### text-decoration:
+Muito usado para dar destaque ao texto:
+Exemplo:
+text-transform: underline; (sublinha o texto)
+text-transform: overline; (coloca uma linha acima do texto)
+text-transform: line-through; (passa uma linha ao meio do texto)
+
