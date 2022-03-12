@@ -62,7 +62,6 @@ Permite arredondar os cantos de um elemento. Suas unidades mais comuns são os p
 - border-radius: 10px; (altera todos os cantos do elemento)
 - border-radius: 50%; (tranforma um elemento quadrado em um círculo)
 
-
 ## Estilizando textos:
 ### Font-family:
 Altera a fonte do texto.
@@ -94,3 +93,14 @@ text-transform: underline; (sublinha o texto)
 text-transform: overline; (coloca uma linha acima do texto)
 text-transform: line-through; (passa uma linha ao meio do texto)
 
+## Estilizando listas
+### List-style-type:
+Utilizado para alterar o tipo do marcador da lista.
+Exemplo:
+list-style-type: square; (em uma lista não ordenada - ul - altera o símbolo para um quadrado)
+list-style-type: upper-roman; (em uma lista ordenada - ol - altera para algarismo romanos em maiúsculo)
+list-style-type: "\1F44D"; (em uma lista não ordenada altera para o símbolo do emoji de like)
+### list-style-img:
+Altera o marcador para uma imagem.
+Exemplo:
+list-style-img: url("caminho da imagem");
