@@ -104,3 +104,13 @@ list-style-type: "\1F44D"; (em uma lista não ordenada altera para o símbolo do
 Altera o marcador para uma imagem.
 Exemplo:
 list-style-img: url("caminho da imagem");
+
+
+## Aula 3 - Dimensão e Alinhamento
+Tipos de dimensões e alinhamentos
+width - ajusta largura
+height - ajusta altura
+max-width - largura máxima
+max-height - altura máxima
+margin - ajusta espaçamentos entre elementos
+text align - alinhar textos
